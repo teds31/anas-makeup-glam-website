@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Kelium Regular";
-  src: url("/font/Kelium-Normal.otf");
+  src: url("../font/Kelium-Normal.otf");
 }
 
 @font-face {
   font-family: "Nexa Light";
-  src: url("/font/Nexa Light.otf");
+  src: url("../font/Nexa Light.otf");
 }
 
 h1, h2, h3{
