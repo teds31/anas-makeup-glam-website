@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Kelium Regular";
+  src: url("/font/Kelium/Kelium-Normal.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: "Nexa Light";
+  src: url("/font/Nexa Light.otf");
+}
+
+h1, h2, h3{
+  font-family: 'Kelium Regular', sans-serif;
+  color: #0D1228
+}
+
+h4, h5, p {
+  font-family: "Nexa Light", sans-serif;
+  color: #222222;
+}
