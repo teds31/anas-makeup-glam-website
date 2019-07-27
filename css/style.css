@@ -17,3 +17,9 @@ h4, h5, p {
   font-family: "Nexa Light", sans-serif;
   color: #222222;
 }
+
+
+#portfolio img {
+  height: 650px;
+  width: auto;
+}
